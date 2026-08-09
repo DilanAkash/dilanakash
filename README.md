@@ -1,238 +1,146 @@
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎨  Dilan Akash — GitHub Profile README                              -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Dilan Akash </h1>
+<h3 align="center">Full Stack Developer | Building modern, scalable & production-ready web experiences | Graphic Designer | Video Editor</h3>
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=dilanakash">
+    <img src="https://komarev.com/ghpvc/?username=dilanakash&label=Profile%20views&color=00FFFF&style=flat-square" alt="dilanakash's profile views" />
+  </a>
+</p>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWgyMW9lZGFzdnpheWZucThteXZnOTZlcHMxYWR4MXk0bmN6c2JhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4jfJqiIxvU08/giphy.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+- 🌱 Currently diving deep into Advanced React, Next.js 15 (App Router), and performance optimization.
+- 👯 Open to collaborating on Open Source Projects and exciting full-stack applications.
+- 🐧 Learning advanced scalability, distributed tracing & cloud-native patterns and linux.
+- 🟢 Open to interesting Job opportunities & Community driven collaborations.
+
+
+## 🧠 My Focus Areas
+- 🌐 Web Development
+- 🔐 Security
+- 🗃️ Databases
+- 🍣 APIs
+- 👍 UI/UX
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/dilanakash">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dilanakash&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="dilanakash's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=dilanakash&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="dilanakash's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=dilanakash&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Dilan Akash 's GitHub Trophies" />
+</p>
 <div align="center">
-
-<!-- ─── Animated Header Banner ────────────────────────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00e5ff&height=220&section=header&text=Dilan%20Akash&fontSize=60&fontColor=00e5ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Graphic%20Designer%20%7C%20Video%20Editor&descSize=16&descColor=8b949e&descAlignY=55" width="100%" />
-
-<!-- ─── Typing Animation ─────────────────────────────────────────────── -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=55&lines=%F0%9F%9A%80+Building+modern%2C+scalable+%26+production-ready+web+experiences;%F0%9F%94%A5+Turning+ideas+into+elegant+code+since+day+one;%F0%9F%92%A1+Passionate+about+clean+architecture+%26+great+UX" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- ─── Profile Badges ───────────────────────────────────────────────── -->
-<a href="https://komarev.com/ghpvc/?username=dilanakash">
-  <img src="https://komarev.com/ghpvc/?username=dilanakash&label=Profile%20Views&color=00e5ff&style=for-the-badge" alt="Profile views" />
-</a>
-&nbsp;
-<a href="https://github.com/dilanakash?tab=followers">
-  <img src="https://img.shields.io/github/followers/dilanakash?label=Followers&style=for-the-badge&color=00e5ff&labelColor=0d1117" alt="Followers" />
-</a>
-&nbsp;
-<a href="https://github.com/dilanakash?tab=repositories">
-  <img src="https://img.shields.io/github/stars/dilanakash?label=Total%20Stars&style=for-the-badge&color=00e5ff&labelColor=0d1117" alt="Stars" />
-</a>
-
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="Rust" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/dilanakash">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dilanakash&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+![Top language](https://stats.pphat.top/languages?username=dilanakash)
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                            ABOUT ME                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://wa.me/940778182031">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:dilanakash27@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://dilanakash.vercel.app/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
-
-```yaml
-name: Dilan Akash
-location: Sri Lanka 🇱🇰
-current_role: Full Stack Developer | Graphic Designer | Video Editor
-
-currently_learning:
-  - Advanced React & Next.js 15 (App Router)
-  - Performance Optimization & Core Web Vitals
-  - Distributed Tracing & Cloud-Native Patterns
-  - Linux System Administration
-
-open_to:
-  - Job Opportunities 🟢
-  - Open Source Collaborations 🤝
-  - Community-Driven Projects 🌍
-
-focus_areas:
-  - 🌐 Web Development (Full Stack)
-  - 🔐 Security & Authentication
-  - 🗃️ Database Design & Optimization
-  - 🍣 REST & GraphQL APIs
-  - 👍 UI/UX Design & Accessibility
-
-fun_fact: "I design it, I code it, I ship it — full cycle, no excuses."
-```
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          TECH STACK                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🛠️ &nbsp;Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,php,rust&theme=dark" alt="Languages" />
-
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,html,css,tailwind,bootstrap,sass&theme=dark" alt="Frontend" />
-
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,laravel,graphql&theme=dark" alt="Backend" />
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase&theme=dark" alt="Databases" />
-
-### ☁️ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,nginx,githubactions&theme=dark" alt="DevOps" />
-
-### 🔧 Tools & Design
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,webpack,vite,vercel&theme=dark" alt="Tools" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        GITHUB STATS                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-
-<!-- Row 1: Stats + Streak -->
-<a href="https://github.com/dilanakash">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dilanakash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&ring_color=00e5ff&cache_seconds=7200" alt="GitHub Stats" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/dilanakash">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dilanakash&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&cache_seconds=7200" alt="Top Languages" />
-</a>
-
-<br/><br/>
-
-<!-- Row 2: Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=dilanakash&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=8b949e&cache_seconds=86400" alt="GitHub Streak" width="55%" />
-
-<br/><br/>
-
-<!-- Row 3: Trophies -->
-<img src="https://trophy.ryglcloud.net/?username=dilanakash&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7&cache_seconds=86400" alt="GitHub Trophies" width="80%" />
-
-<br/><br/>
-
-<!-- Row 4: Activity Graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilanakash&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area_color=0d1117&area=true&hide_border=true" width="95%" alt="Activity Graph" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        3D CITY + LANGUAGES                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D Contribution City" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  
-  ![Top Languages](https://stats.pphat.top/languages?username=dilanakash)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                     CONTRIBUTION SNAKE                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dilanakash/dilanakash/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dilanakash/dilanakash/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/dilanakash/dilanakash/output/github-snake.svg" width="100%" />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        CONNECT WITH ME                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🔗 &nbsp;Connect With Me
-
-<div align="center">
-
-<a href="https://dilanakash.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=0d1117" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="mailto:dilanakash27@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-&nbsp;
-<a href="https://wa.me/940778182031" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                             QUOTE                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-⚡ "Cute prompt. Does it come with a basic understanding of logic, or do I have to fix that too?"
-```
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         BREAKOUT GAME                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
+## 💬 Quote
+> Cute prompt. Does it come with a basic understanding of logic, or do I have to fix that too?
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" width="100%" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
 </picture>
 
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       SUPPORT & FOOTER                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<p align="center"><a href="https://www.buymeacoffee.com/dilanakash" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
-
-<a href="https://www.buymeacoffee.com/dilanakash" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=0d1117" alt="Buy Me A Coffee" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00e5ff&height=120&section=footer" width="100%" />
-
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFibWhucGFqc2QwMmZ3aGJ3ajJiMDM5ZGd1a3lja2s1OWhqaHBtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" alt="Bottom Line" width="100%" />
 </div>
+
